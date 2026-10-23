@@ -1,0 +1,7 @@
+layout: page
+title: Contact Geometry
+description: Lutz Twist, Classification
+img: assets/img/copertinaa.jpg
+importance: 1
+category: work
+({{ '/assets/pdf/mini_lezione.pdf' | relative_url }})
