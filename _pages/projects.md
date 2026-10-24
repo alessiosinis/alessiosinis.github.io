@@ -5,6 +5,7 @@ permalink: /notes/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
+notes_pdf: /assets/pdf/contactgeo.pdf
 display_categories: [work, fun]
 horizontal: false
 ---
